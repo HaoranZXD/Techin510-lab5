@@ -1,4 +1,3 @@
-psycopg2-binary
 requests
 python-dotenv
 streamlit-folium
@@ -6,6 +5,5 @@ sqlalchemy
 folium
 streamlit
 pandas
-pandas.io.sql
 altair
 pytz
